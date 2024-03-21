@@ -1,0 +1,9 @@
+Package: dev.enriicsolaa.lookimpremium
+Name: Look Im Premium
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Activate YouTube Premium logos without being subscribed!
+Maintainer: EnriicSolaa
+Author: EnriicSolaa
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
